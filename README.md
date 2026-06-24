@@ -1,7 +1,6 @@
 
 <div align="center">
 
-# 🎉 Congratulations sjihttam! 🎉
 
 ### 🌟 You've successfully completed the exercise! 🌟
 
